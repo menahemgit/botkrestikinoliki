@@ -1,1 +1,0 @@
-application.add_handler(CallbackQueryHandler(handle_move, pattern='^move_'))
